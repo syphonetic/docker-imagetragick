@@ -6,7 +6,7 @@ Run a containerised Flask app that relies on a version of ImageMagic that is vul
 
 1. Download this repo and build it locally:
 
-       `$ docker build -t imagetragick .`
+       $ docker build -t imagetragick .
    
 2.  Run the image and create a container:
 
